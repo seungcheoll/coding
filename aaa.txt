@@ -1,0 +1,8 @@
+git add .
+git status
+git commit -m "메세지"
+
+git remote add origin https://github.com/seungcheoll/coding
+git remote -v
+
+git push origin master
